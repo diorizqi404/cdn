@@ -38,7 +38,7 @@ body {
     background-color: rgb(52 55 59/var(--tw-bg-opacity));
 }
 .bg-murky-900 {
-    background-color: #24293e;
+    background-color: #111315;
 }
 .bg-transparent {
     background-color: transparent;
@@ -471,5 +471,5 @@ border-top: 3px solid #F70505;
 }
 .bg-section-one {
 background: rgb(30,32,34);
-background: linear-gradient(0deg, rgba(30,32,34,1) 0%, rgba(52,55,59,0.8475623497596154) 100%);
+background: linear-gradient(0deg, rgba(30,32,34,1) 0%, #111315) 100%);
 }
